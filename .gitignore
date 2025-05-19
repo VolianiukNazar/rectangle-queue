@@ -1,0 +1,19 @@
+# Visual Studio system folders
+.vs/
+*.VC.db
+*.user
+*.suo
+
+# Compiled binary files
+*.exe
+*.obj
+*.pdb
+
+# Build folders
+bin/
+obj/
+out/
+
+# Temporary files
+*.log
+*.tmp
